@@ -284,7 +284,7 @@ a:hover {
 }
 
 #bloc-2-services p {
-    font-size: 11px;
+    font-size: 17px;
 }
 
 .navbar {
@@ -763,7 +763,7 @@ h4 {
 }
 
 .service-header {
-    font-size: 15px;
+    font-size: 17px;
     font-weight: 700;
     text-transform: uppercase;
 }
@@ -781,7 +781,7 @@ h4 {
 }
 
 .tc-white {
-    color: #364577!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
@@ -813,6 +813,11 @@ h4 {
 .icon-dark-slate-blue {
     color: #364577!important;
     border-color: #364577!important;
+}
+
+.icreate-img {
+    height: 115px;
+    width: 1000px;
 }
 
 .bg-dots-bg {
@@ -895,7 +900,7 @@ h4 {
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     .page-container {
         overflow-x: hidden;
         position: relative;
@@ -1021,6 +1026,11 @@ h4 {
     }
     .close-lightbox {
         display: inline-block;
+    }
+    
+    .icreate-img{ 
+        height: 140px;
+        width: 742px;
     }
     .blocsapp-device-iphone5 {
         background-size: 216px 425px;
