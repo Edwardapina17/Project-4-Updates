@@ -90,10 +90,10 @@ a:hover {
     right: 0;
 }
 
-.texture-paper::before {
+/* .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
-}
+} */
 
 .b-parallax {
     background-attachment: fixed;
@@ -656,6 +656,7 @@ a {
 
 .container {
     max-width: 1000px;
+    margin-right: 0px;
 }
 
 .hero-bloc-text {
@@ -820,13 +821,13 @@ h4 {
     width: 1000px;
 }
 
-.bg-dots-bg {
+/* .bg-dots-bg {
     background-image: url("img/dots-bg.png");
-}
+} */
 
-.bg-lines-h2-bg {
+/* .bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.png");
-}
+} */
 
 .bg-atlanta-20made-20sign {
     background-image: url("img/atlanta%20made%20sign.jpg");
