@@ -656,7 +656,6 @@ a {
 
 .container {
     max-width: 1000px;
-    margin-right: 0px;
 }
 
 .hero-bloc-text {
@@ -821,21 +820,6 @@ h4 {
     width: 1000px;
 }
 
-/* .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
-} */
-
-/* .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
-} */
-
-.bg-atlanta-20made-20sign {
-    background-image: url("img/atlanta%20made%20sign.jpg");
-}
-
-.bg-atlanta-20made-20sign-20orange {
-    background-image: url("img/atlanta%20made%20sign%20orange.png");
-}
 
 @media (max-width: 1024px) {
     .bloc {
