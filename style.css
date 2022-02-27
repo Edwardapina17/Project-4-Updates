@@ -203,6 +203,10 @@ a:hover {
     color: rgba(0, 0, 0, .7);
 }
 
+.form-group {
+    padding-bottom: 5px;
+}
+
 .l-bloc .icon-round,
 .l-bloc .icon-square,
 .l-bloc .icon-rounded,
@@ -704,6 +708,10 @@ p {
     margin: auto auto auto auto;
 }
 
+.logo-text {
+    display: none;
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
@@ -777,7 +785,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #364577;
 }
 
 .tc-white {
@@ -786,11 +794,11 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #FFFFFF;
-    color: #F3976C!important;
+    color: #364577!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #364577!important;
     color: #FFFFFF!important;
 }
 
@@ -803,11 +811,11 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #364577!important;
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color: #364577!important;
 }
 
 .icon-dark-slate-blue {
